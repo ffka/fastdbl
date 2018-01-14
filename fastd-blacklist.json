@@ -6,6 +6,10 @@
       "comment": "2015-01-01 (Twi): Just an example"
     },
     {
+      "pubkey": "6bd2a9ff01a07d12ff40c5aaae52223eb5e90110cc2128b48173433ce3d85e13",
+      "comment": "2015-01-01 (herrbett): potentially a bridge to Freifunk FFMeinerzhagen"
+    },
+    {
       "pubkey": "9665b858679f76abf6428fa1c8b38a62846c088819d450d79623cff40201719f",
       "comment": "2016-06-24 (Twi): potentially a bridge to FFLD"
     }
