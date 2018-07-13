@@ -18,6 +18,10 @@
       "comment": "2018-07-13 (herrbett): firmware to old. Multicast…"
     },
     {
+      "pubkey": "79025d041fb99506fde0c0e537b9643aeedd6b1a0203d58a518b55c681adf811",
+      "comment": "2018-07-13 (herrbett): firmware to old. Multicast…"
+    },
+    {
       "pubkey": "9665b858679f76abf6428fa1c8b38a62846c088819d450d79623cff40201719f",
       "comment": "2016-06-24 (Twi): potentially a bridge to FFLD"
     }
