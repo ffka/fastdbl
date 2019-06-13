@@ -26,6 +26,10 @@
       "comment": "2018-07-13 (herrbett): firmware to old. Multicast…"
     },
     {
+      "pubkey": "cc507d8424085dce8ff00bb203b9f2544c1ee4a1ecf1dbe8be110c0552652400",
+      "comment": "2019-06-13 (herrbett): ffka-graben02 bridges legacy and new domains"
+    },
+    {
       "pubkey": "9665b858679f76abf6428fa1c8b38a62846c088819d450d79623cff40201719f",
       "comment": "2016-06-24 (Twi): potentially a bridge to FFLD"
     }
